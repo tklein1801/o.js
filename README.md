@@ -1,5 +1,9 @@
 # o.js
 
+> [!IMPORTANT]
+> `@tklein1801/o.js` is no longer used in my project.
+> Therefore, this repository is no longer maintained (there wasn't really a maintenance before) and remains for archival purposes only.
+
 o.js is a isomorphic Odata Javascript library to simplify the request of data. The main goal is to build a **standalone, lightweight and easy** to understand Odata lib.
 
 ## Install
